@@ -1,9 +1,4 @@
 # tsubak3.github.io
 
-<img alt="かやのドミノ01" src="https://raw.github.com/wiki/tsubak3/tsubak3.github.io/images/domino01.png" />
-<img alt="かやのドミノ02" src="https://raw.github.com/wiki/tsubak3/tsubak3.github.io/images/domino02.png" />
-
-<video controls poster="https://raw.github.com/wiki/tsubak3/tsubak3.github.io/images/domino01.png" width="300" height="240">
-<source src="https://raw.github.com/wiki/tsubak3/tsubak3.github.io/movie/domino01.mp4">
-<p>動画を再生するには、videoタグをサポートしたブラウザが必要です。</p>
-</video>
+<img alt="かやのドミノ01" src="https://raw.github.com/wiki/tsubak3/tsubak3.github.io/images/domino01.png" width="300" height="240" />
+<img alt="かやのドミノ02" src="https://raw.github.com/wiki/tsubak3/tsubak3.github.io/images/domino02.png" width="300" height="240" />
